@@ -64,7 +64,7 @@ Environment: Kaggle GPU (Tesla T4)
 
 /notebooks: Kaggle notebooks containing the full pipeline and ablation study.
 
-/report: The final project report (PDF) and LaTeX source.
+/report: The final project report (PDF).
 
 Authors
 
